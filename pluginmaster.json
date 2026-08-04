@@ -1,0 +1,13 @@
+[
+  {
+    "Author": "dulu8",
+    "Name": "Thank Helper",
+    "InternalName": "ThankHelper",
+    "AssemblyVersion": "0.1.0.0",
+    "DalamudApiLevel": 15,
+    "ApplicableVersion": "any",
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/plugins/ThankHelper/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/plugins/ThankHelper/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/plugins/ThankHelper/latest.zip"
+  }
+]
