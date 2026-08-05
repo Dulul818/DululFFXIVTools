@@ -5,11 +5,11 @@
     "Punchline": "自动处理可打断读条",
     "Description": "面向 T 职的实用工具箱\n提供便捷、可配置的战斗辅助功能",
     "InternalName": "ThankHelper",
-    "AssemblyVersion": "0.1.3.0",
+    "AssemblyVersion": "0.1.3.1",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Tags": ["interrupt","combat"],
-    "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-cover.png",
     "ImageUrls": [
       "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-cover.png"
     ],
