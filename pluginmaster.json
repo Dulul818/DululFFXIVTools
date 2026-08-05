@@ -5,7 +5,7 @@
     "Punchline": "自动处理可打断读条",
     "Description": "面向T职的实用工具箱",
     "InternalName": "ThankHelper",
-    "AssemblyVersion": "0.1.0.0",
+    "AssemblyVersion": "0.1.1.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Tags": ["interrupt","combat"],
