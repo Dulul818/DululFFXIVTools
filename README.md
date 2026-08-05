@@ -9,7 +9,7 @@ Thank Helper 是一个面向 **Dalamud API 15** 的 FF14 坦克职业静默自�
 3. 添加并保存以下精确 URL：
 
    ```text
-   https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/pluginmaster.json
+   https://gh.atmoomen.top/raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/pluginmaster.json
    ```
 
 4. 返回插件安装器，搜索 **Thank Helper** 并安装。
