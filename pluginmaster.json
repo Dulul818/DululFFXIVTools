@@ -1,15 +1,18 @@
 [
   {
-    "Author": "dulu8",
+    "Author": "Dulul",
     "Name": "Thank Helper",
-    "Punchline": "自动处理可打断读条。",
-    "Description": "面向骑士、战士、暗黑骑士和绝枪战士的 PvE 静默自动打断助手。插件会后台扫描已进入战斗的敌方读条，在不选择或切换目标的情况下优先使用插言，并可通过本地自学习使用下踢；同时支持打断延迟、插言黑名单、成功提示以及学习库分享码。PvP 中强制禁用，未知下踢试探默认关闭。",
+    "Punchline": "自动处理可打断读条",
+    "Description": "面向T职的实用工具箱",
     "InternalName": "ThankHelper",
     "AssemblyVersion": "0.1.0.0",
     "DalamudApiLevel": 15,
     "ApplicableVersion": "any",
     "Tags": ["interrupt","combat"],
     "IconUrl": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-icon.png",
+    "ImageUrls": [
+      "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/assets/thankhelper-cover.png"
+    ],
     "DownloadLinkInstall": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/plugins/ThankHelper/latest.zip",
     "DownloadLinkUpdate": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/plugins/ThankHelper/latest.zip",
     "DownloadLinkTesting": "https://raw.githubusercontent.com/Dulul818/DululFFXIVTools/main/plugins/ThankHelper/latest.zip"
